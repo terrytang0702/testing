@@ -57,8 +57,7 @@
         "UPDATE_METHOD": "auto",
         "WARN_DEBUG": "false",
         "UPDATE_API": "https://api.ionicjs.com",
-        "MAX_STORE": "0",
-        "MIN_BACKGROUND_DURATION": "30"
+        "MAX_STORE": "0"
       }
     },
     "platforms": [
